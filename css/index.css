@@ -1,0 +1,96 @@
+.computer{
+	width: 500px;
+	height: 888px;
+	background: red;
+	margin:0 auto;
+}
+.head{
+	width: 500px;
+	height: 78px;
+	background: #00a5c4;
+}
+
+.window{
+	width: 500px; 
+	height: 260px;
+	background:#f0f0f0;
+}
+.xiala{
+	width: 500px;
+	height: 47px;
+	background: #dfe3e4;
+	line-height: 47px;
+	text-align:center ;
+
+
+}
+.keyboard{
+	width: 500px;
+	height: 504px;
+	background: yellow;
+}
+.anjian{
+	width:123px; 
+	height:99px; 
+	background: white;
+	float: left;
+	margin-right: 2px;
+	margin-bottom: 3px;
+	line-height: 99px;
+	text-align:center ;
+
+}
+.anjian1{
+	width: 124px;
+}
+.anjian2{
+	margin-right: 0;
+}
+.anjian3{
+	height: 96px;
+	margin-bottom: 0;
+}
+.cicle{
+	margin-right:
+	margin-bottom: 
+
+}
+.circle{ 
+	width: 7px;
+	height: 7px;
+	background: #ffffff;
+	border-radius: 50px;
+	margin-bottom: 2px;
+
+}
+.circle1{
+	margin-bottom: 0;
+
+}
+.head-left{
+	width: 77px;
+	height: 26px;
+	float: left;
+	margin-left: 23px;
+	font-size: 25px;
+	color:#fafafa;
+	text-align: center;
+	 line-height: 26px; 
+	 margin-top: 26px;
+	 /* background: red; */
+}			
+.head-right{ 
+	width: 7px;
+	height: 25px;
+	float: right;
+	margin-top: 26px;
+	margin-right: 30px;
+	background: red;
+	
+
+ }
+ /* .biaozhi{ */
+ 	/* width: 30px; */
+	/* height: 47px; */
+	/* margin-left: 235px; */
+ /* } */
